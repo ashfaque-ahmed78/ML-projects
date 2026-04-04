@@ -44,6 +44,13 @@ The Resume Screening System is a Machine Learning-based application designed to 
 ---
 
 ## 📁 Project Structure
+Resume-Screening-App/
+│
+├── app.py
+├── clf.pkl
+├── tfidf.pkl
+├── UpdatedResumeDataSet.csv
+├── README.md
 
 
 
