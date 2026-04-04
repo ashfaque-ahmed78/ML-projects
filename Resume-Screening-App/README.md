@@ -44,3 +44,29 @@ The Resume Screening System is a Machine Learning-based application designed to 
 ---
 
 ## 📁 Project Structure
+
+
+
+📊 Dataset
+
+The dataset contains labeled resumes categorized into different job roles. It is used for training and evaluating the machine learning model.
+
+📈 Future Enhancements
+Integration of Deep Learning models (LSTM, BERT)
+Deployment on cloud platforms
+Resume ranking and scoring system
+Improved user interface and experience
+🤝 Contributing
+
+Contributions are welcome. Feel free to fork this repository and submit pull requests.
+
+⭐ Support
+
+If you find this project useful, please give it a star ⭐
+
+📬 Contact
+
+Author: Ashfaque Ahmed
+GitHub: https://github.com/ashfaque-ahmed78
+
+Email: ashfaqueahmed3150@gmail.com
